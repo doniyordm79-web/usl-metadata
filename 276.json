@@ -1,0 +1,35 @@
+{
+  "name": "USL #276",
+  "description": "Uzbek Street Legends — a collection of 500 unique pixel art characters celebrating Uzbek culture and heritage.",
+  "image": "ipfs://bafybeifvwcqd7czptzfvbi6jxmno7h5qglcsp3wkc55jekdknkd4hyp7ui",
+  "attributes": [
+    {
+      "trait_type": "Profession",
+      "value": "Poet"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Qalpok Fur Hat"
+    },
+    {
+      "trait_type": "Chapan Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clay Pot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Registan, Samarkand"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Uzbek Street Legends"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis"
+    }
+  ]
+}

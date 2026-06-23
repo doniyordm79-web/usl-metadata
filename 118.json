@@ -1,0 +1,35 @@
+{
+  "name": "USL #118",
+  "description": "Uzbek Street Legends — a collection of 500 unique pixel art characters celebrating Uzbek culture and heritage.",
+  "image": "ipfs://bafybeiho4obk4yb4oqperke6yqdmp7vi46cqd73k2iclk26ujpztgrcpl4",
+  "attributes": [
+    {
+      "trait_type": "Profession",
+      "value": "Bazaar Merchant"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    },
+    {
+      "trait_type": "Chapan Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tasbeh Beads"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Registan, Samarkand"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Uzbek Street Legends"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis"
+    }
+  ]
+}

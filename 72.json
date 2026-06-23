@@ -1,0 +1,35 @@
+{
+  "name": "USL #72",
+  "description": "Uzbek Street Legends — a collection of 500 unique pixel art characters celebrating Uzbek culture and heritage.",
+  "image": "ipfs://bafybeigee24znkx3btawjmd6j2mp74uxtiumikcdupggsnobpx5bwk44ii",
+  "attributes": [
+    {
+      "trait_type": "Profession",
+      "value": "Musician"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Qalpok Fur Hat"
+    },
+    {
+      "trait_type": "Chapan Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tasbeh Beads"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Bazaar Market"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Uzbek Street Legends"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis"
+    }
+  ]
+}

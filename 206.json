@@ -1,0 +1,35 @@
+{
+  "name": "USL #206",
+  "description": "Uzbek Street Legends — a collection of 500 unique pixel art characters celebrating Uzbek culture and heritage.",
+  "image": "ipfs://bafybeihzgglq4w52qrohcsrokdazrhuonhk5eduyhxsgi6ska777yfljhy",
+  "attributes": [
+    {
+      "trait_type": "Profession",
+      "value": "Blacksmith"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Qalpok Fur Hat"
+    },
+    {
+      "trait_type": "Chapan Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hammer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Bazaar Market"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Uzbek Street Legends"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis"
+    }
+  ]
+}

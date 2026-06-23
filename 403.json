@@ -1,0 +1,35 @@
+{
+  "name": "USL #403",
+  "description": "Uzbek Street Legends — a collection of 500 unique pixel art characters celebrating Uzbek culture and heritage.",
+  "image": "ipfs://bafybeib7n2a5z3fimlgufvleyaq5lifjgq2x2m2o2ywdvjk7peywnsqueu",
+  "attributes": [
+    {
+      "trait_type": "Profession",
+      "value": "Craftsman"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    },
+    {
+      "trait_type": "Chapan Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Bazaar Market"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Uzbek Street Legends"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis"
+    }
+  ]
+}

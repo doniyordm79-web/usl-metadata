@@ -1,0 +1,35 @@
+{
+  "name": "USL #483",
+  "description": "Uzbek Street Legends — a collection of 500 unique pixel art characters celebrating Uzbek culture and heritage.",
+  "image": "ipfs://bafybeiav45tmezduv4wf6selredfhrgqyosqeor33frslbrguec6mxutgy",
+  "attributes": [
+    {
+      "trait_type": "Profession",
+      "value": "Spice Trader"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Qalpok Fur Hat"
+    },
+    {
+      "trait_type": "Chapan Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Non Bread"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Kok Gumbaz, Shahrisabz"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Uzbek Street Legends"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis"
+    }
+  ]
+}

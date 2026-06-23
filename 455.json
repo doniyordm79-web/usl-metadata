@@ -1,0 +1,35 @@
+{
+  "name": "USL #455",
+  "description": "Uzbek Street Legends — a collection of 500 unique pixel art characters celebrating Uzbek culture and heritage.",
+  "image": "ipfs://bafybeia3ykel2bhqhbjmzv526zvmpfuptaeexac5pd4r2f3hdesjfapqji",
+  "attributes": [
+    {
+      "trait_type": "Profession",
+      "value": "Carpet Weaver"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Doppi Skullcap"
+    },
+    {
+      "trait_type": "Chapan Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Choykhana"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Uzbek Street Legends"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis"
+    }
+  ]
+}
