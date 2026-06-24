@@ -1,0 +1,53 @@
+{
+  "name": "USL #354",
+  "symbol": "USL",
+  "description": "Uzbek Street Legends — a collection of 500 unique pixel art characters celebrating Uzbek culture and heritage.",
+  "seller_fee_basis_points": 500,
+  "image": "ipfs://bafybeihkbprjsmtjzeickqppam4mdklmu6vfgppbc373uf5wy3xbwslld4",
+  "external_url": "https://doniyordm79-web.github.io/usl-metadata",
+  "attributes": [
+    {
+      "trait_type": "Profession",
+      "value": "Blacksmith"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Qalpok Fur Hat"
+    },
+    {
+      "trait_type": "Chapan Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Book"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Registan, Samarkand"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Uzbek Street Legends"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "ipfs://bafybeihkbprjsmtjzeickqppam4mdklmu6vfgppbc373uf5wy3xbwslld4",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "ExpertViper880",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "USL #167",
+  "symbol": "USL",
+  "description": "Uzbek Street Legends — a collection of 500 unique pixel art characters celebrating Uzbek culture and heritage.",
+  "seller_fee_basis_points": 500,
+  "image": "ipfs://bafybeieyujeos5qf6juosnwk3zorfpwl75jwj5whpxcruxjfej2sse4f5e",
+  "external_url": "https://doniyordm79-web.github.io/usl-metadata",
+  "attributes": [
+    {
+      "trait_type": "Profession",
+      "value": "Teahouse Owner"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Doppi Skullcap"
+    },
+    {
+      "trait_type": "Chapan Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Teapot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Registan, Samarkand"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Uzbek Street Legends"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "ipfs://bafybeieyujeos5qf6juosnwk3zorfpwl75jwj5whpxcruxjfej2sse4f5e",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "ExpertViper880",
+        "share": 100
+      }
+    ]
+  }
+}
